@@ -12,7 +12,10 @@ Server:
 ```
 ./server.py 8080 127.0.0.1
 ```  
+   
+Stop server: [Crtl]+[Z]  
   
+   
 Client: 
   
 ```
